@@ -2,5 +2,5 @@
 A Flutter App to Keep Notes
 
 # Screenshots
-<img src='screenshots/device-2020-09-08-200335.png' height='300rem'>
+<img src='screenshots/device-2020-09-08-200335.png' height='600rem'>
 
