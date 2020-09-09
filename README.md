@@ -1,5 +1,6 @@
 # Notes-Keeper
 A Flutter App to Keep Notes
+### Author: Karthik
 
 # Screenshots
 <img src='screenshots/screenshot1.png' height='450rem'>&emsp;<img src='screenshots/screenshot2.png' height='450rem'>&emsp;<img src='screenshots/Screenshot3.png'  height='450rem'>&emsp;<img src='screenshots/gif1.gif' height='450rem'>&emsp;<img src='screenshots/gif2.gif' height='450rem'>
@@ -37,6 +38,8 @@ A Flutter App to Keep Notes
 <a href="https://pub.dev/packages/rxdart">rxdart</a>
 
 <a href="https://pub.dev/packages/google_fonts">google_fonts</a>
+
+### I'd be very happy for any feedback (especially negative) and contribution...
 
 
 
