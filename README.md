@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/github/stars/testuser2212/test-project?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/testuser2212/test-project?style=for-the-badge">&emsp;<img src="https://img.shields.io/github/v/release/testuser2212/test-project?style=for-the-badge">
+
 
 # Notes-Keeper
 A Flutter App to Keep Notes
