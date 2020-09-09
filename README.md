@@ -10,6 +10,8 @@ A Flutter App to Keep Notes
 
 * Dark and Light Theme
 
+* Sort notes by title, last edit or created date
+
 * Scheduling Note
 
 * Notification Reminder
