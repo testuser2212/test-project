@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/github/stars/testuser2212/test-project?style=for-the-badge">
+
 # Notes-Keeper
 A Flutter App to Keep Notes
 ### Author: Karthik
